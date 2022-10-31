@@ -32,5 +32,6 @@ print("Celkem tyto čísla jsou:", celkem1)
 print("A celkem jsou všechna lichá čísla v programu celkem", celkem + celkem1)
 #ke konci program sečte lichá čísla s obou programů
 
-
+#mam pouze poznamku radek 13, to celkem nemusis pocitat v cyklu,
+# ale az na konci, jinak vsechny priklady velmi dobre
 
