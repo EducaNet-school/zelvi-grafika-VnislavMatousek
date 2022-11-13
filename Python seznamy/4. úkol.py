@@ -10,3 +10,5 @@ for a in sez:
         print("Pravda všechny čísla jsou větší než vámi zadané číslo")
     break
 
+# predikat je funkce, ktera vraci bool, vytvor funkci teprve az
+# zkontrolujes vsechna cisla, rozhodni, zda funkce vrati ANO nebo NE 
